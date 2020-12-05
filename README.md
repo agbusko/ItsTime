@@ -1,4 +1,4 @@
-# __ItsTime.by
+# ItsTime
 
 ---node.js
 ---yarn
